@@ -2,6 +2,12 @@
 
 import string
 import random
+import ipyleaflet
+
+class Map(ipyleaflet.Map):
+
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
 
 def generate_random_password(length=10, upper=False, digits=False, punctuation=False):
     """Generates a random password of a given length.
