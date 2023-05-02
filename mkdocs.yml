@@ -49,6 +49,6 @@ nav:
     - Changelog: changelog.md
     - Report Issues: https://github.com/geonextgis/geolens/issues
     - Examples: 
-        - docs/examples/intro.ipynb
+          - examples/intro.ipynb
     - API Reference:
           - geolens module: geolens.md
