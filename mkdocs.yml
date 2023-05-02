@@ -50,5 +50,6 @@ nav:
     - Report Issues: https://github.com/geonextgis/geolens/issues
     - Examples: 
           - examples/intro.ipynb
+          - examples/folium.ipynb
     - API Reference:
           - geolens module: geolens.md
